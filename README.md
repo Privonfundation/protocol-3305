@@ -13,7 +13,6 @@ It provides a set of auditable, technically verifiable principles for any organi
 
 Adherence to this protocol signifies that a service is structurally incapable of exploiting its people, because it is built on a foundation of zero-knowledge and zero-trust.
 
-### Navigating This Repository
 
 ---
 
