@@ -15,9 +15,6 @@ Adherence to this protocol signifies that a service is structurally incapable of
 
 ### Navigating This Repository
 
-- **[Implementation Guide](./IMPLEMENTATION.md):** For technical guidance on how to build compliant software.
-- **[Contribution Guide](./CONTRIBUTING.md):** For instructions on how to suggest improvements to the protocol.
-
 ---
 
 ## Article 0: Ethical Monetization - A Pact Against Exploitation
