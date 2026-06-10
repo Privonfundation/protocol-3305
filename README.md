@@ -1,4 +1,6 @@
-<img width="1024" height="1024" alt="960" src="https://raw.githubusercontent.com/ObscuritySecurity/protocol-3305/refs/heads/main/Protocol-3305.png" />
+<p align="center">
+  <img src="Protocol-3305.png" alt="Protocol 3305" width="300">
+</p>
 
 
 # Protocol 3305: A Standard for People-First Software
