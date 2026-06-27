@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="Protocol-3305.png" alt="Protocol 3305" width="300">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-white">
-  <img src="https://img.shields.io/badge/license-AGPL--3.0-white">
-</p>
 
 # Protocol 3305: A Standard for People-First Software
 
